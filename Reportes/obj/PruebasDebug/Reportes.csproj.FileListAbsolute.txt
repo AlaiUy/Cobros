@@ -1,0 +1,4 @@
+D:\Src\CTAManager\CTAManager\Reportes\bin\PruebasDebug\Reportes.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\PruebasDebug\Entidades.dll
+D:\Src\CTAManager\CTAManager\Reportes\obj\PruebasDebug\Reportes.csprojResolveAssemblyReference.cache
+D:\Src\CTAManager\CTAManager\Reportes\obj\PruebasDebug\Reportes.dll

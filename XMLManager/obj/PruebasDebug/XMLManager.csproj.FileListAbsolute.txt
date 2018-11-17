@@ -1,0 +1,6 @@
+D:\Src\CTAManager\CTAManager\XMLManager\bin\PruebasDebug\XMLManager.dll
+D:\Src\CTAManager\CTAManager\XMLManager\bin\PruebasDebug\Entidades.dll
+D:\Src\CTAManager\CTAManager\XMLManager\obj\PruebasDebug\XMLManager.csprojResolveAssemblyReference.cache
+D:\Src\CTAManager\CTAManager\XMLManager\obj\PruebasDebug\Aguiñagalde.XMLManager.Properties.Resources.resources
+D:\Src\CTAManager\CTAManager\XMLManager\obj\PruebasDebug\XMLManager.csproj.GenerateResource.Cache
+D:\Src\CTAManager\CTAManager\XMLManager\obj\PruebasDebug\XMLManager.dll

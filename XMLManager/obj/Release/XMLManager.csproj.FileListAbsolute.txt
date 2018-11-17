@@ -1,0 +1,90 @@
+D:\Src\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.dll
+D:\Src\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.pdb
+D:\Src\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.dll
+D:\Src\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.pdb
+D:\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csprojResolveAssemblyReference.cache
+D:\Src\CTAManager\CTAManager\XMLManager\obj\Release\Aguiñagalde.XMLManager.Properties.Resources.resources
+D:\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csproj.GenerateResource.Cache
+D:\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.dll
+D:\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.pdb
+H:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.pdb
+H:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.pdb
+H:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csprojResolveAssemblyReference.cache
+H:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\Aguiñagalde.XMLManager.Properties.Resources.resources
+H:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csproj.GenerateResource.Cache
+H:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.pdb
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.pdb
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.pdb
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csprojResolveAssemblyReference.cache
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\Aguiñagalde.XMLManager.Properties.Resources.resources
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csproj.GenerateResource.Cache
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.pdb
+F:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.pdb
+F:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.pdb
+F:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csprojResolveAssemblyReference.cache
+F:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\Aguiñagalde.XMLManager.Properties.Resources.resources
+F:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csproj.GenerateResource.Cache
+F:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.pdb
+E:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.pdb
+E:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.pdb
+E:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csprojResolveAssemblyReference.cache
+E:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\Aguiñagalde.XMLManager.Properties.Resources.resources
+E:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csproj.GenerateResource.Cache
+E:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.pdb
+D:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.pdb
+D:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.pdb
+D:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csprojResolveAssemblyReference.cache
+D:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\Aguiñagalde.XMLManager.Properties.Resources.resources
+D:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csproj.GenerateResource.Cache
+D:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.pdb
+D:\Aguiñagalde\Respaldo SRC\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.dll
+D:\Aguiñagalde\Respaldo SRC\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.pdb
+D:\Aguiñagalde\Respaldo SRC\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.dll
+D:\Aguiñagalde\Respaldo SRC\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.pdb
+D:\Aguiñagalde\Respaldo SRC\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csprojResolveAssemblyReference.cache
+D:\Aguiñagalde\Respaldo SRC\CTAManager\CTAManager\XMLManager\obj\Release\Aguiñagalde.XMLManager.Properties.Resources.resources
+D:\Aguiñagalde\Respaldo SRC\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csproj.GenerateResource.Cache
+D:\Aguiñagalde\Respaldo SRC\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.dll
+D:\Aguiñagalde\Respaldo SRC\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.pdb
+G:\Src\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.dll
+G:\Src\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.pdb
+G:\Src\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.dll
+G:\Src\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.pdb
+G:\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csprojResolveAssemblyReference.cache
+G:\Src\CTAManager\CTAManager\XMLManager\obj\Release\Aguiñagalde.XMLManager.Properties.Resources.resources
+G:\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csproj.GenerateResource.Cache
+G:\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.dll
+G:\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.pdb
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.pdb
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.pdb
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csprojResolveAssemblyReference.cache
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\obj\Release\Aguiñagalde.XMLManager.Properties.Resources.resources
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csproj.GenerateResource.Cache
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.pdb
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\XMLManager\bin\Release\XMLManager.pdb
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\XMLManager\bin\Release\Entidades.pdb
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csprojResolveAssemblyReference.cache
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\XMLManager\obj\Release\Aguiñagalde.XMLManager.Properties.Resources.resources
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.csproj.GenerateResource.Cache
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\XMLManager\obj\Release\XMLManager.pdb

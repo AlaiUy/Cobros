@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B59619F3-70E1-4B11-B454-46AA8CD6FC18}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Aguiñagalde.Entidades</RootNamespace>
+    <AssemblyName>Entidades</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cajas\Caja.cs" />
+    <Compile Include="Cajas\CajaCtaDia.cs" />
+    <Compile Include="Cajas\CajaGeneral.cs" />
+    <Compile Include="CamposLibres.cs" />
+    <Compile Include="CFE.cs" />
+    <Compile Include="Clientes\ClienteActivo.cs" />
+    <Compile Include="Clientes\ClienteInco.cs" />
+    <Compile Include="Clientes\ClienteRecibo.cs" />
+    <Compile Include="Config.cs" />
+    <Compile Include="Empresa.cs" />
+    <Compile Include="FPago.cs" />
+    <Compile Include="Movimientos\Movimiento.cs" />
+    <Compile Include="Movimientos\MovimientoRecibo.cs" />
+    <Compile Include="Permiso.cs" />
+    <Compile Include="Clientes\Persona.cs" />
+    <Compile Include="Recibo.cs" />
+    <Compile Include="Remitos\Debito.cs" />
+    <Compile Include="Remitos\EntregaCuenta.cs" />
+    <Compile Include="Remitos\LineaRemito.cs" />
+    <Compile Include="Moneda.cs" />
+    <Compile Include="Movimientos\MovimientoGeneral.cs" />
+    <Compile Include="PersonaAutorizada.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Remitos\RBonificacion.cs" />
+    <Compile Include="Remitos\Remito.cs" />
+    <Compile Include="Remitos\RMora.cs" />
+    <Compile Include="Series\Serie.cs" />
+    <Compile Include="SubCuenta.cs" />
+    <Compile Include="Tarifa.cs" />
+    <Compile Include="Usuario.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

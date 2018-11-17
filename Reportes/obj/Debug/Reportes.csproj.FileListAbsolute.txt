@@ -1,0 +1,415 @@
+E:\Src\CTAManager\Reportes\bin\Debug\Reportes.dll
+E:\Src\CTAManager\Reportes\bin\Debug\Reportes.pdb
+E:\Src\CTAManager\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+E:\Src\CTAManager\Reportes\obj\Debug\Reportes.dll
+E:\Src\CTAManager\Reportes\obj\Debug\Reportes.pdb
+G:\Src\CTAManager\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+G:\Src\CTAManager\Reportes\obj\Debug\Reportes.dll
+G:\Src\CTAManager\Reportes\obj\Debug\Reportes.pdb
+G:\Src\CTAManager\Reportes\bin\Debug\Reportes.dll
+G:\Src\CTAManager\Reportes\bin\Debug\Reportes.pdb
+D:\Src\CTAManager\Reportes\bin\Debug\Reportes.dll
+D:\Src\CTAManager\Reportes\bin\Debug\Reportes.pdb
+D:\Src\CTAManager\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+D:\Src\CTAManager\Reportes\obj\Debug\Reportes.dll
+D:\Src\CTAManager\Reportes\obj\Debug\Reportes.pdb
+C:\Users\alain\Desktop\Refactory\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.dll
+C:\Users\alain\Desktop\Refactory\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.pdb
+C:\Users\alain\Desktop\Refactory\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.dll
+C:\Users\alain\Desktop\Refactory\CTAManager\CTAManager\Reportes\bin\Debug\Interfaces.dll
+C:\Users\alain\Desktop\Refactory\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.pdb
+C:\Users\alain\Desktop\Refactory\CTAManager\CTAManager\Reportes\bin\Debug\Interfaces.pdb
+C:\Users\alain\Desktop\Refactory\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+C:\Users\alain\Desktop\Refactory\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.dll
+C:\Users\alain\Desktop\Refactory\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.pdb
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.pdb
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Shared.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.VSDesigner.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Web.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CRVsPackageLib.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\VSLangProj.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\VsWebSite.Interop.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE80.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\stdole.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\FlashControlV71.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\ShockwaveFlashObjects.dll
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.pdb
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE.xml
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\VSLangProj.xml
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE80.xml
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+D:\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.dll
+D:\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.pdb
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.pdb
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportSource.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Shared.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.VSDesigner.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Web.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CRVsPackageLib.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Windows.Forms.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\VSLangProj.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\VsWebSite.Interop.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE80.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\stdole.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\FlashControlV71.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\ShockwaveFlashObjects.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.pdb
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.dll
+H:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.pdb
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.pdb
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportSource.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Shared.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.VSDesigner.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Web.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CRVsPackageLib.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Windows.Forms.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\VSLangProj.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\VsWebSite.Interop.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE80.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\stdole.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\FlashControlV71.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\ShockwaveFlashObjects.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.pdb
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\VsWebSite.Interop.xml
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.dll
+Z:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.pdb
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.pdb
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Shared.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.VSDesigner.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Web.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CRVsPackageLib.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\VSLangProj.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\VsWebSite.Interop.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE80.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\FlashControlV71.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\stdole.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\ShockwaveFlashObjects.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.pdb
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\VsWebSite.Interop.xml
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Aguiñagalde.Reportes.frmImpresion.resources
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.csproj.GenerateResource.Cache
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.dll
+F:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.pdb
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.pdb
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Shared.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.VSDesigner.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Web.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CRVsPackageLib.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\VSLangProj.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\VsWebSite.Interop.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE80.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\FlashControlV71.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\stdole.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\ShockwaveFlashObjects.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.pdb
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\VsWebSite.Interop.xml
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Aguiñagalde.Reportes.frmImpresion.resources
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.csproj.GenerateResource.Cache
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.dll
+E:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.pdb
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.pdb
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\VSLangProj.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\VsWebSite.Interop.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE80.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\FlashControlV71.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\stdole.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\ShockwaveFlashObjects.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.pdb
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE.xml
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\VSLangProj.xml
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE80.xml
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Aguiñagalde.Reportes.frmImpresion.resources
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.csproj.GenerateResource.Cache
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.pdb
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.dll
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.pdb
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.dll
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE.dll
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\VSLangProj.dll
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\VsWebSite.Interop.dll
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE80.dll
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\FlashControlV71.dll
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\stdole.dll
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\ShockwaveFlashObjects.dll
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.pdb
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE.xml
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\VSLangProj.xml
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE80.xml
+G:\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+G:\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+G:\Src\CTAManager\CTAManager\Reportes\obj\Debug\Aguiñagalde.Reportes.frmImpresion.resources
+G:\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.csproj.GenerateResource.Cache
+G:\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.dll
+G:\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.pdb
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.pdb
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CRVsPackageLib.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\VSLangProj.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\VsWebSite.Interop.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE80.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\FlashControlV71.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\stdole.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.pdb
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE.xml
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\VSLangProj.xml
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE80.xml
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\obj\Debug\Aguiñagalde.Reportes.frmImpresion.resources
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.csproj.GenerateResource.Cache
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.pdb
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Reportes.pdb
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CRVsPackageLib.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\VSLangProj.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\VsWebSite.Interop.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE80.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\FlashControlV71.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\stdole.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Entidades.pdb
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE.xml
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\VSLangProj.xml
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\EnvDTE80.xml
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\obj\Debug\Aguiñagalde.Reportes.frmImpresion.resources
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.csproj.GenerateResource.Cache
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.dll
+C:\Users\alai\Desktop\CTA ANTES REPO\CTAManager\CTAManager\Reportes\obj\Debug\Reportes.pdb

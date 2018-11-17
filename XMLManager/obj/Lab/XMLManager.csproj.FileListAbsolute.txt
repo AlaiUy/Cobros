@@ -1,0 +1,9 @@
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\bin\Lab\XMLManager.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\bin\Lab\XMLManager.pdb
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\bin\Lab\Entidades.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\bin\Lab\Entidades.pdb
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\obj\Lab\XMLManager.csprojResolveAssemblyReference.cache
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\obj\Lab\Aguiñagalde.XMLManager.Properties.Resources.resources
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\obj\Lab\XMLManager.csproj.GenerateResource.Cache
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\obj\Lab\XMLManager.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\XMLManager\obj\Lab\XMLManager.pdb

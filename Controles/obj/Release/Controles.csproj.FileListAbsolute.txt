@@ -1,0 +1,9 @@
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Controles\bin\Release\Controles.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Controles\bin\Release\Controles.pdb
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Controles\obj\Release\Controles.csprojResolveAssemblyReference.cache
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Controles\obj\Release\Controles.dll
+D:\Aguiñagalde\Src\CTAManager\CTAManager\Controles\obj\Release\Controles.pdb
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Controles\bin\Release\Controles.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Controles\bin\Release\Controles.pdb
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Controles\obj\Release\Controles.dll
+C:\Users\alai\Desktop\Jose\Src\CTAManager\CTAManager\Controles\obj\Release\Controles.pdb
