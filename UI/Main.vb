@@ -896,10 +896,9 @@ Public Class Main
     End Function
 
     Private Sub CambiarRegistro()
-#If Not DEBUG Then
-        My.Computer.Registry.SetValue("HKEY_CURRENT_USER\UsuarioAguina", "Usuario", 0)
-        My.Computer.Registry.SetValue("HKEY_CURRENT_USER\UsuarioAguina", "Password", 0)
-#End If
+        My.Computer.Registry.SetValue("HKEY_CURRENT_USER\UsuarioAguina", "Usuario", GCobros.getInstance().Caja.Usuario.NombreUsuario)
+        My.Computer.Registry.SetValue("HKEY_CURRENT_USER\UsuarioAguina", "Password", GCobros.getInstance().Caja.Usuario.Password)
+
     End Sub
 
 

@@ -127,6 +127,7 @@ namespace Aguiñagalde.DAL
             U.PassEmail = (string)(Reader["PASSEMAIL"] is DBNull ? string.Empty : Reader["PASSEMAIL"]);
             U.Password = (string)(Reader["PASSWORD"] is DBNull ? string.Empty : Reader["PASSWORD"]);
             U.Nombre = (string)(Reader["NOMBRE_REAL"] is DBNull ? string.Empty : Reader["NOMBRE_REAL"]);
+            U.NombreUsuario = (string)(Reader["NOMBRE"] is DBNull ? string.Empty : Reader["NOMBRE"]);
             return U;
         }
         private List<Permiso> getPermisos(int xUsuario)
@@ -1579,7 +1580,7 @@ namespace Aguiñagalde.DAL
                 using (SqlConnection Con = new SqlConnection(GlobalConnectionString))
                 {
                     Con.Open();
-                    using (IDbTransaction Tran = Con.BeginTransaction())
+                    using (SqlTransaction Tran = Con.BeginTransaction())
                     {
                         DeleteParameters(xNombreEquipo, Tran, Con);
                         AddParameters(xLista, xNombreEquipo, Tran, Con);
@@ -1664,10 +1665,10 @@ namespace Aguiñagalde.DAL
             Movimiento Mov;
             try
             {
-                using (IDbConnection Con = new SqlConnection(GlobalConnectionString))
+                using (SqlConnection Con = new SqlConnection(GlobalConnectionString))
                 {
                     Con.Open();
-                    using (IDbTransaction Tran = Con.BeginTransaction())
+                    using (SqlTransaction Tran = Con.BeginTransaction())
                     {
                         foreach (Movimiento M in list)
                         {
@@ -1764,9 +1765,10 @@ namespace Aguiñagalde.DAL
                 int NumeroR = -1;
                 int NumeroE = -1;
                 Remito R = (Remito)xEntrega;
-                using (IDbConnection Con = new SqlConnection(GlobalConnectionString))
+                using (SqlConnection Con = new SqlConnection(GlobalConnectionString))
                 {
-                    using (IDbTransaction Tran = Con.BeginTransaction())
+                    Con.Open();
+                    using (SqlTransaction Tran = Con.BeginTransaction())
                     {
                         CajaGeneral C = (CajaGeneral)xCaja;
                         NumeroR = NumeroRecibo(C.Recibos, Con, Tran, 20);

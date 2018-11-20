@@ -96,7 +96,7 @@ Public Class frmLogin
         Dim U As Usuario = GCobros.getInstance.Caja.Usuario
         CargarPermisos(U)
         If Not IsNothing(GCobros.getInstance().Caja.Usuario) Then
-            My.Computer.Registry.SetValue("HKEY_CURRENT_USER\UsuarioAguina", "Usuario", U.Nombre)
+            My.Computer.Registry.SetValue("HKEY_CURRENT_USER\UsuarioAguina", "Usuario", U.NombreUsuario)
             My.Computer.Registry.SetValue("HKEY_CURRENT_USER\UsuarioAguina", "Password", U.Password)
         End If
 

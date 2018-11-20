@@ -10,6 +10,7 @@ namespace Aguiñagalde.Entidades
     {
         private int _codUsuario;
         private string _Nombre;
+        private string _NombreUsuario;
         private string _EmailHost;
         private string _PassEmail;
         private int _CodVendedor;
@@ -77,6 +78,19 @@ namespace Aguiñagalde.Entidades
             set
             {
                 _Permisos = value;
+            }
+        }
+
+        public string NombreUsuario
+        {
+            get
+            {
+                return _NombreUsuario;
+            }
+
+            set
+            {
+                _NombreUsuario = value;
             }
         }
 
