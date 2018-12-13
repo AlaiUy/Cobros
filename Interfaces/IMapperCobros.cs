@@ -18,7 +18,7 @@ namespace Aguiñagalde.Interfaces
         List<Moneda> getListaMonedas();
 
         object Parametros(string xNombreMaquina, List<int> Indexs);
-        Empresa getClavesEmpresa(byte xSucursal);
+        Empresa getClavesEmpresa(int xSucursal);
         Usuario getUsuario(string xUsuario, string xPassword);
         void CambiarClaveUsuario(int xcodUsuario, string xpassword);
 

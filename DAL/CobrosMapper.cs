@@ -1405,7 +1405,7 @@ namespace Aguiñagalde.DAL
 
 
 
-        public Empresa getClavesEmpresa(byte xSucursal)
+        public Empresa getClavesEmpresa(int xSucursal)
         {
             Empresa E = null;
 
@@ -1414,7 +1414,7 @@ namespace Aguiñagalde.DAL
                 Con.Open();
                 using (SqlCommand Com = new SqlCommand("SELECT * FROM CLAVESEMPRESA WHERE (SUCURSAL = @SUCURSAL)", (SqlConnection)Con))
                 {
-                    Com.Parameters.Add(new SqlParameter("@SUCURSAL", 1));
+                    Com.Parameters.Add(new SqlParameter("@SUCURSAL", xSucursal));
                     using (IDataReader Reader = ExecuteReader(Com))
                     {
                         if (Reader.Read())
