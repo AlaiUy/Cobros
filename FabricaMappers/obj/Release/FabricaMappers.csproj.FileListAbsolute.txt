@@ -64,15 +64,3 @@ C:\Users\alai\Desktop\Jose\Src\Cobros\FabricaMappers\bin\Release\Entidades.pdb
 C:\Users\alai\Desktop\Jose\Src\Cobros\FabricaMappers\obj\Release\FabricaMappers.csprojResolveAssemblyReference.cache
 C:\Users\alai\Desktop\Jose\Src\Cobros\FabricaMappers\obj\Release\FabricaMappers.dll
 C:\Users\alai\Desktop\Jose\Src\Cobros\FabricaMappers\obj\Release\FabricaMappers.pdb
-C:\Users\alai\Source\Repos\Cobros\Cobros\FabricaMappers\bin\Release\FabricaMappers.dll
-C:\Users\alai\Source\Repos\Cobros\Cobros\FabricaMappers\bin\Release\FabricaMappers.pdb
-C:\Users\alai\Source\Repos\Cobros\Cobros\FabricaMappers\bin\Release\DAL.dll
-C:\Users\alai\Source\Repos\Cobros\Cobros\FabricaMappers\bin\Release\Interfaces.dll
-C:\Users\alai\Source\Repos\Cobros\Cobros\FabricaMappers\bin\Release\Entidades.dll
-C:\Users\alai\Source\Repos\Cobros\Cobros\FabricaMappers\bin\Release\XMLManager.dll
-C:\Users\alai\Source\Repos\Cobros\Cobros\FabricaMappers\bin\Release\DAL.pdb
-C:\Users\alai\Source\Repos\Cobros\Cobros\FabricaMappers\bin\Release\Interfaces.pdb
-C:\Users\alai\Source\Repos\Cobros\Cobros\FabricaMappers\bin\Release\Entidades.pdb
-C:\Users\alai\Source\Repos\Cobros\Cobros\FabricaMappers\obj\Release\FabricaMappers.csprojResolveAssemblyReference.cache
-C:\Users\alai\Source\Repos\Cobros\Cobros\FabricaMappers\obj\Release\FabricaMappers.dll
-C:\Users\alai\Source\Repos\Cobros\Cobros\FabricaMappers\obj\Release\FabricaMappers.pdb

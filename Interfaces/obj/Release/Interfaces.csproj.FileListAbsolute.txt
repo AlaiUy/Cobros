@@ -40,10 +40,3 @@ C:\Users\alai\Desktop\Jose\Src\Cobros\Interfaces\bin\Release\Entidades.pdb
 C:\Users\alai\Desktop\Jose\Src\Cobros\Interfaces\obj\Release\Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\alai\Desktop\Jose\Src\Cobros\Interfaces\obj\Release\Interfaces.dll
 C:\Users\alai\Desktop\Jose\Src\Cobros\Interfaces\obj\Release\Interfaces.pdb
-C:\Users\alai\Source\Repos\Cobros\Cobros\Interfaces\bin\Release\Interfaces.dll
-C:\Users\alai\Source\Repos\Cobros\Cobros\Interfaces\bin\Release\Interfaces.pdb
-C:\Users\alai\Source\Repos\Cobros\Cobros\Interfaces\bin\Release\Entidades.dll
-C:\Users\alai\Source\Repos\Cobros\Cobros\Interfaces\bin\Release\Entidades.pdb
-C:\Users\alai\Source\Repos\Cobros\Cobros\Interfaces\obj\Release\Interfaces.csprojResolveAssemblyReference.cache
-C:\Users\alai\Source\Repos\Cobros\Cobros\Interfaces\obj\Release\Interfaces.dll
-C:\Users\alai\Source\Repos\Cobros\Cobros\Interfaces\obj\Release\Interfaces.pdb

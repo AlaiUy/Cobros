@@ -376,7 +376,7 @@ namespace Aguiñagalde.DAL
 
         private void ImprimirRemito(Remito xRemito, int xNumeroRemito, Empresa xClaves, CajaGeneral xCaja, bool xImprimir, IDbConnection xCon, IDbTransaction xTran)
         {
-
+            xRemito.Numero = xNumeroRemito;
             XMLInfo.getInstance().GenerarXMLRemito(xRemito, xNumeroRemito, xClaves, xCaja, xImprimir);
             //GenerarXMLRemito(xRemito, xNumeroRemito, xClaves, xCaja, xImprimir);
             string xFile = "RET" + xRemito.Serie + xNumeroRemito;
@@ -1408,7 +1408,6 @@ namespace Aguiñagalde.DAL
         public Empresa getClavesEmpresa(int xSucursal)
         {
             Empresa E = null;
-
             using (SqlConnection Con = new SqlConnection(GlobalConnectionString))
             {
                 Con.Open();
