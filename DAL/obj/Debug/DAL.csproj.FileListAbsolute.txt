@@ -80,3 +80,13 @@ C:\Users\alai\Desktop\Jose\Src\Cobros\DAL\bin\Debug\Interfaces.pdb
 C:\Users\alai\Desktop\Jose\Src\Cobros\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\alai\Desktop\Jose\Src\Cobros\DAL\obj\Debug\DAL.dll
 C:\Users\alai\Desktop\Jose\Src\Cobros\DAL\obj\Debug\DAL.pdb
+C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\bin\Debug\DAL.dll
+C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\bin\Debug\DAL.pdb
+C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\bin\Debug\Entidades.dll
+C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\bin\Debug\Interfaces.dll
+C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\bin\Debug\XMLManager.dll
+C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\bin\Debug\Entidades.pdb
+C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\bin\Debug\Interfaces.pdb
+C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\obj\Debug\DAL.dll
+C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\obj\Debug\DAL.pdb

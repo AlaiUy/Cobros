@@ -207,27 +207,12 @@ namespace Aguiñagalde.Entidades
         public MovimientoGeneral(int xNumero, string xSerie, string xDescipcion, decimal xImporte, DateTime xFecha, Moneda xMoneda, byte xLinea, string xOrigen, int xTarifa, decimal xCotizacion,int xSubcta,int xTipoDoc)
             : base(xNumero, xSerie, xFecha, xLinea, xCotizacion,xImporte,xSubcta,xMoneda,xTipoDoc)
         {
-
             _descripcion = xDescipcion;
             _Posicion = xLinea;
             _origen = xOrigen;
             _codTarifa = xTarifa;
-
-
         }
-
-        //public MovimientoGeneral(int xNumero, string xSerie, string xDescipcion, decimal xImporte, DateTime xFecha, Moneda xMoneda, byte xLinea, string xOrigen, decimal xCotizacion)
-        //    : base(xNumero, xSerie, xFecha, xLinea, xCotizacion)
-        //{
-        //    _descripcion = xDescipcion;
-        //    _Moneda = xMoneda;
-        //    _Posicion = xLinea;
-        //    _origen = xOrigen;
-        //    _importe = xImporte;
-
-        //}
-
-
+        
         #endregion
 
 
@@ -274,26 +259,6 @@ namespace Aguiñagalde.Entidades
             decimal MT = MoraTotal(xDiasVencidos, xCoefMora, xImporte);
             return MT / ((xImporte + MT) / xImportePagado);
         }
-
-
-        //public static decimal mMora(int xDias, decimal xImporte, decimal xMonto, Moneda xM)
-        //{
-
-
-        //    if (xImporte < 0)
-        //        return 0;
-
-        //    if (xMonto != 0)
-        //    {
-        //        decimal MT = MoraTotal(xDias, xM.Mora, xImporte);
-        //        decimal Prorrateo = MT / ((xImporte + MT) / xMonto);
-        //        return decimal.Round(MT / ((xImporte + MT) / xMonto), 2);
-        //    }
-        //    return decimal.Round(MoraTotal(xDias, xM.Mora, xImporte), 2);
-        //}
-
-
-
 
         public static decimal Descuento(int xDias, decimal xImporte, decimal xMonto, decimal xDescuento, DateTime xFechaContado,int xFormaPago,bool KeepGoing)
         {

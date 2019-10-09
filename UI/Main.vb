@@ -104,6 +104,8 @@ Public Class Main
             txtMoraDolares.Text = FormatearImporte(0)
         End If
 
+        txtMoraDolares.Text = FormatearImporte(0)
+        txtMoraPesos.Text = FormatearImporte(0)
         txtPesos.Text = FormatearImporte(0)
         txtSaldoPesos.Text = String.Format(CultureInfo.InvariantCulture, "{0:0,0.00}", Decimal.Round(ImportePesos, 2))
         txtSaldoDolares.Text = String.Format(CultureInfo.InvariantCulture, "{0:0,0.00}", ImporteDolares, 2)
@@ -445,6 +447,8 @@ Public Class Main
 
 
     Private Sub btnPagar_Click(sender As Object, e As EventArgs) Handles btnPagar.Click
+
+
         Try
             TryCast(sender, Button).Enabled = False
             If Not GCobros.getInstance().CajaAbierta() Then
@@ -1025,6 +1029,10 @@ Public Class Main
                     C.ReadOnly = True
                 End If
             Next
+
+            For Each R As DataGridViewRow In DGMovimientoGenerals.Rows
+                Despintar(R.Index)
+            Next
         End If
 
 
@@ -1042,9 +1050,7 @@ Public Class Main
 
     End Sub
 
-    Private Sub txtImporteMarcar_TextChanged(sender As Object, e As EventArgs) Handles txtImporteMarcar.TextChanged
 
-    End Sub
 
     Private Sub txtImporteMarcar_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtImporteMarcar.KeyPress
         e.Handled = ValidarImportes(e.KeyChar, txtImporteMarcar.Text, txtImporteMarcar.SelectionLength, txtImporteMarcar.SelectionStart)
@@ -1056,5 +1062,20 @@ Public Class Main
 
     Private Sub DGMovimientoGenerals_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles DGMovimientoGenerals.CellContentClick
 
+    End Sub
+
+    Private Sub txtSubPesos_TextChanged(sender As Object, e As EventArgs) Handles txtSubPesos.TextChanged
+
+    End Sub
+
+    Private Sub txtImporteMarcar_TextChanged(sender As Object, e As EventArgs) Handles txtImporteMarcar.TextChanged
+
+    End Sub
+
+    Private Sub Label3_Click(sender As Object, e As EventArgs) Handles Label3.Click
+        If Not IsNothing(_Cliente) Then
+            Dim formDatos As Form = New frmClienteDatos(_Cliente)
+            formDatos.ShowDialog()
+        End If
     End Sub
 End Class

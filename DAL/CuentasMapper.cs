@@ -129,8 +129,6 @@ namespace Aguiñagalde.DAL
                     {
                         if (Reader.Read())
                         {
-                            
-                            
                                 int Tipo = (int)(Reader["TIPOCFE"] is DBNull ? 0 : Reader["TIPOCFE"]);
                                 string CFESerie = (string)(Reader["SERIECFE"] is DBNull ? string.Empty : Reader["SERIECFE"]);
                                 int CFENumero = (int)(Reader["NUMEROCFE"] is DBNull ? 0 : Reader["NUMEROCFE"]);
@@ -141,7 +139,6 @@ namespace Aguiñagalde.DAL
                                 int NumeroF = (int)(Reader["NUMEROFAC"] is DBNull ? 0 : Reader["NUMEROFAC"]);
                                 Temporal = new CFE(Tipo, CFESerie, CFENumero, Link, Albaran, NAlbaran, SerieF, NumeroF);
                             }
-                           
                         }
                     }
                 }

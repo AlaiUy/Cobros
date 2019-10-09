@@ -110,4 +110,8 @@ Public Class frmVerRecibos
     Private Sub DGVistaRecivos_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles DGVistaRecivos.CellContentClick
 
     End Sub
+
+    Private Sub Panel4_Paint(sender As Object, e As PaintEventArgs) Handles Panel4.Paint
+
+    End Sub
 End Class

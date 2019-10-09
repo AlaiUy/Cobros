@@ -33,12 +33,9 @@ Partial Class Main
         Me.Label12 = New System.Windows.Forms.Label()
         Me.cbFormaPago = New System.Windows.Forms.ComboBox()
         Me.chkDescuento = New System.Windows.Forms.CheckBox()
-        Me.btnVerRecibos = New System.Windows.Forms.Button()
         Me.Panel13 = New System.Windows.Forms.Panel()
-        Me.btnMarcar = New System.Windows.Forms.Button()
         Me.txtImporteMarcar = New System.Windows.Forms.TextBox()
         Me.lbltxtImporte = New System.Windows.Forms.Label()
-        Me.btnPagar = New System.Windows.Forms.Button()
         Me.ChkMora = New System.Windows.Forms.CheckBox()
         Me.Panel8 = New System.Windows.Forms.Panel()
         Me.Panel10 = New System.Windows.Forms.Panel()
@@ -95,6 +92,9 @@ Partial Class Main
         Me.ToolsDetalle = New System.Windows.Forms.ToolTip(Me.components)
         Me.BW = New System.ComponentModel.BackgroundWorker()
         Me.NotifyIcon1 = New System.Windows.Forms.NotifyIcon(Me.components)
+        Me.btnVerRecibos = New System.Windows.Forms.Button()
+        Me.btnMarcar = New System.Windows.Forms.Button()
+        Me.btnPagar = New System.Windows.Forms.Button()
         Me.Panel1.SuspendLayout()
         Me.Panel3.SuspendLayout()
         Me.Panel5.SuspendLayout()
@@ -233,25 +233,6 @@ Partial Class Main
         Me.ToolsDetalle.SetToolTip(Me.chkDescuento, "Aplica descuento")
         Me.chkDescuento.UseVisualStyleBackColor = True
         '
-        'btnVerRecibos
-        '
-        Me.btnVerRecibos.BackColor = System.Drawing.Color.White
-        Me.btnVerRecibos.FlatAppearance.BorderSize = 0
-        Me.btnVerRecibos.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.btnVerRecibos.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnVerRecibos.Image = Global.Aguiñagalde.UI.My.Resources.Resources.seo
-        Me.btnVerRecibos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btnVerRecibos.Location = New System.Drawing.Point(5, 4)
-        Me.btnVerRecibos.Name = "btnVerRecibos"
-        Me.btnVerRecibos.Padding = New System.Windows.Forms.Padding(0, 0, 7, 0)
-        Me.btnVerRecibos.Size = New System.Drawing.Size(97, 43)
-        Me.btnVerRecibos.TabIndex = 2
-        Me.btnVerRecibos.Text = "Ver recibos"
-        Me.btnVerRecibos.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btnVerRecibos.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
-        Me.ToolsDetalle.SetToolTip(Me.btnVerRecibos, "Generar Pago")
-        Me.btnVerRecibos.UseVisualStyleBackColor = False
-        '
         'Panel13
         '
         Me.Panel13.Controls.Add(Me.btnMarcar)
@@ -263,23 +244,6 @@ Partial Class Main
         Me.Panel13.Name = "Panel13"
         Me.Panel13.Size = New System.Drawing.Size(539, 52)
         Me.Panel13.TabIndex = 7
-        '
-        'btnMarcar
-        '
-        Me.btnMarcar.BackColor = System.Drawing.Color.White
-        Me.btnMarcar.FlatAppearance.BorderSize = 0
-        Me.btnMarcar.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.btnMarcar.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnMarcar.Image = Global.Aguiñagalde.UI.My.Resources.Resources.Check
-        Me.btnMarcar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btnMarcar.Location = New System.Drawing.Point(295, 7)
-        Me.btnMarcar.Name = "btnMarcar"
-        Me.btnMarcar.Size = New System.Drawing.Size(117, 39)
-        Me.btnMarcar.TabIndex = 3
-        Me.btnMarcar.Text = "Marcar"
-        Me.btnMarcar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
-        Me.ToolsDetalle.SetToolTip(Me.btnMarcar, "Marcar el importe en grilla")
-        Me.btnMarcar.UseVisualStyleBackColor = False
         '
         'txtImporteMarcar
         '
@@ -301,23 +265,6 @@ Partial Class Main
         Me.lbltxtImporte.Size = New System.Drawing.Size(77, 23)
         Me.lbltxtImporte.TabIndex = 1
         Me.lbltxtImporte.Text = "Importe"
-        '
-        'btnPagar
-        '
-        Me.btnPagar.BackColor = System.Drawing.Color.White
-        Me.btnPagar.FlatAppearance.BorderSize = 0
-        Me.btnPagar.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.btnPagar.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnPagar.Image = Global.Aguiñagalde.UI.My.Resources.Resources.Cobrar
-        Me.btnPagar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btnPagar.Location = New System.Drawing.Point(417, 7)
-        Me.btnPagar.Name = "btnPagar"
-        Me.btnPagar.Size = New System.Drawing.Size(117, 39)
-        Me.btnPagar.TabIndex = 0
-        Me.btnPagar.Text = "Generar pago"
-        Me.btnPagar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
-        Me.ToolsDetalle.SetToolTip(Me.btnPagar, "Generar Pago")
-        Me.btnPagar.UseVisualStyleBackColor = False
         '
         'ChkMora
         '
@@ -844,7 +791,8 @@ Partial Class Main
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Font = New System.Drawing.Font("Tahoma", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.Font = New System.Drawing.Font("Tahoma", 12.0!, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.ForeColor = System.Drawing.Color.Blue
         Me.Label3.Location = New System.Drawing.Point(20, 40)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(72, 19)
@@ -893,6 +841,59 @@ Partial Class Main
         Me.NotifyIcon1.BalloonTipText = "qweqwe"
         Me.NotifyIcon1.Text = "NotifyIcon1"
         Me.NotifyIcon1.Visible = True
+        '
+        'btnVerRecibos
+        '
+        Me.btnVerRecibos.BackColor = System.Drawing.Color.White
+        Me.btnVerRecibos.FlatAppearance.BorderSize = 0
+        Me.btnVerRecibos.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnVerRecibos.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnVerRecibos.Image = Global.Aguiñagalde.UI.My.Resources.Resources.seo
+        Me.btnVerRecibos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btnVerRecibos.Location = New System.Drawing.Point(5, 4)
+        Me.btnVerRecibos.Name = "btnVerRecibos"
+        Me.btnVerRecibos.Padding = New System.Windows.Forms.Padding(0, 0, 7, 0)
+        Me.btnVerRecibos.Size = New System.Drawing.Size(97, 43)
+        Me.btnVerRecibos.TabIndex = 2
+        Me.btnVerRecibos.Text = "Ver recibos"
+        Me.btnVerRecibos.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btnVerRecibos.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
+        Me.ToolsDetalle.SetToolTip(Me.btnVerRecibos, "Generar Pago")
+        Me.btnVerRecibos.UseVisualStyleBackColor = False
+        '
+        'btnMarcar
+        '
+        Me.btnMarcar.BackColor = System.Drawing.Color.White
+        Me.btnMarcar.FlatAppearance.BorderSize = 0
+        Me.btnMarcar.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnMarcar.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnMarcar.Image = Global.Aguiñagalde.UI.My.Resources.Resources.Check
+        Me.btnMarcar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btnMarcar.Location = New System.Drawing.Point(295, 7)
+        Me.btnMarcar.Name = "btnMarcar"
+        Me.btnMarcar.Size = New System.Drawing.Size(117, 39)
+        Me.btnMarcar.TabIndex = 3
+        Me.btnMarcar.Text = "Marcar"
+        Me.btnMarcar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
+        Me.ToolsDetalle.SetToolTip(Me.btnMarcar, "Marcar el importe en grilla")
+        Me.btnMarcar.UseVisualStyleBackColor = False
+        '
+        'btnPagar
+        '
+        Me.btnPagar.BackColor = System.Drawing.Color.White
+        Me.btnPagar.FlatAppearance.BorderSize = 0
+        Me.btnPagar.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnPagar.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnPagar.Image = Global.Aguiñagalde.UI.My.Resources.Resources.Cobrar
+        Me.btnPagar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btnPagar.Location = New System.Drawing.Point(417, 7)
+        Me.btnPagar.Name = "btnPagar"
+        Me.btnPagar.Size = New System.Drawing.Size(117, 39)
+        Me.btnPagar.TabIndex = 0
+        Me.btnPagar.Text = "Generar pago"
+        Me.btnPagar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
+        Me.ToolsDetalle.SetToolTip(Me.btnPagar, "Generar Pago")
+        Me.btnPagar.UseVisualStyleBackColor = False
         '
         'Main
         '

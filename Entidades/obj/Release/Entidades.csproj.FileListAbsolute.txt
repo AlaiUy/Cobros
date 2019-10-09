@@ -25,3 +25,8 @@ C:\Users\alai\Desktop\Jose\Src\Cobros\Entidades\bin\Release\Entidades.dll
 C:\Users\alai\Desktop\Jose\Src\Cobros\Entidades\bin\Release\Entidades.pdb
 C:\Users\alai\Desktop\Jose\Src\Cobros\Entidades\obj\Release\Entidades.dll
 C:\Users\alai\Desktop\Jose\Src\Cobros\Entidades\obj\Release\Entidades.pdb
+C:\Users\alai\Source\Repos\Cobros\Cobros\Entidades\bin\Release\Entidades.dll
+C:\Users\alai\Source\Repos\Cobros\Cobros\Entidades\bin\Release\Entidades.pdb
+C:\Users\alai\Source\Repos\Cobros\Cobros\Entidades\obj\Release\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\alai\Source\Repos\Cobros\Cobros\Entidades\obj\Release\Entidades.dll
+C:\Users\alai\Source\Repos\Cobros\Cobros\Entidades\obj\Release\Entidades.pdb

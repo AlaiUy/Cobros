@@ -166,6 +166,12 @@
     <Compile Include="Auxiliares\frm_Descatalogar.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Clientes\frmClienteDatos.Designer.vb">
+      <DependentUpon>frmClienteDatos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\frmClienteDatos.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmAboutUs.Designer.vb">
       <DependentUpon>frmAboutUs.vb</DependentUpon>
     </Compile>
@@ -246,6 +252,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Auxiliares\frm_Descatalogar.resx">
       <DependentUpon>frm_Descatalogar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\frmClienteDatos.resx">
+      <DependentUpon>frmClienteDatos.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmAboutUs.resx">
       <DependentUpon>frmAboutUs.vb</DependentUpon>

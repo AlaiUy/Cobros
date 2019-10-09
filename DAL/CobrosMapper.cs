@@ -333,7 +333,7 @@ namespace Aguiñagalde.DAL
                         GuardarTesoreria(R, Con, Tran, Numero);
                         if (R.Comentario.Length > 0)
                             GuardarComentario(R, Numero, ((CajaGeneral)xCajaGeneral).Usuario.CodUsuario, Con, Tran);
-                        ImprimirRemito(R, Numero, Claves, (CajaGeneral)xCajaGeneral, xImprimir, Con, Tran);
+                        //ImprimirRemito(R, Numero, Claves, (CajaGeneral)xCajaGeneral, xImprimir, Con, Tran);
                         Tran.Commit();
                     }
                     catch (Exception E)
@@ -362,7 +362,7 @@ namespace Aguiñagalde.DAL
                         GuardarTesoreria(R, xCon, xTran, Numero);
                         if (R.Comentario.Length > 0)
                             GuardarComentario(R, Numero, ((CajaGeneral)xCajaGeneral).Usuario.CodUsuario, xCon, xTran);
-                        ImprimirRemito(R, Numero, Claves, (CajaGeneral)xCajaGeneral, xImprimir, xCon, xTran);
+                        //ImprimirRemito(R, Numero, Claves, (CajaGeneral)xCajaGeneral, xImprimir, xCon, xTran);
                        
                     }
                     catch (Exception E)

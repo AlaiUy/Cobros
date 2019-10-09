@@ -1298,6 +1298,7 @@ namespace Aguiñagalde.Gestoras
             string sSerie = _Caja.Id;
             return (DataTable)DBCobros.getAllRecibos(zCaja, sSerie);
 
+
         }
 
         private List<object> Documentos(List<Movimiento> xMovs, ClienteActivo xCliente, bool xMora, Moneda xMoneda, bool xDescuento, int xFormaPago, bool xKeep)
@@ -1456,7 +1457,7 @@ namespace Aguiñagalde.Gestoras
             return R;
         }
 
-
+         
 
         private Remito CrearDebito(decimal xImporte, int xCodMoneda, Persona xPersona, SubCuenta xSubCta, object xMovimientos, decimal xCotizacion)
         {
