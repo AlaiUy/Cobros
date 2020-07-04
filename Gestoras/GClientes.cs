@@ -84,6 +84,22 @@ namespace Aguiñagalde.Gestoras
             ClienteActivo Obj;
             Obj = (ClienteActivo)DBClientes.getSimpleByID(IDCliente);
 
+            int Cob = 0;
+            try
+            {
+                Cob = Convert.ToInt32(Obj.Cobrador);
+            }
+            catch (Exception)
+            {
+                Cob = 4;
+            }
+            
+
+            if (Cob > 15)
+            {
+                throw new Exception("No se puede cobrar esta cuenta.");
+            }
+
             if (Obj == null)
             {
                 throw new Exception("No se ecuentra el cliente");

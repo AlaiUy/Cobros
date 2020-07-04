@@ -90,3 +90,13 @@ C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\bin\Debug\Interfaces.pdb
 C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\obj\Debug\DAL.dll
 C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\obj\Debug\DAL.pdb
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\bin\Debug\DAL.dll
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\bin\Debug\DAL.pdb
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\bin\Debug\Entidades.dll
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\bin\Debug\Interfaces.dll
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\bin\Debug\XMLManager.dll
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\bin\Debug\Entidades.pdb
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\bin\Debug\Interfaces.pdb
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\obj\Debug\DAL.dll
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\obj\Debug\DAL.pdb

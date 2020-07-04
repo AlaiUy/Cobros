@@ -299,7 +299,7 @@ namespace Aguiñagalde.DAL
                                     }
                                 }
                             }
-                            
+
                         }
                     }
                     catch (Exception E)
@@ -345,39 +345,43 @@ namespace Aguiñagalde.DAL
             return Numero;
         }
 
-        public int GenerarRemitos(object xRe, object xClaves, object xCajaGeneral, bool xImprimir,IDbConnection xCon,IDbTransaction xTran)
+        public int GenerarRemitos(object xRe, object xClaves, object xCajaGeneral, bool xImprimir, IDbConnection xCon, IDbTransaction xTran)
         {
             int Numero = -1;
             Empresa Claves = (Empresa)xClaves;
-            
-                    try
-                    {
-                        Remito R = (Remito)xRe;
-                        Numero = NumeroRecibo(R.Serie, xCon, xTran, R.TipoDoc());
-                        GuardarCabecera(R, xCon, xTran, Numero);
-                        GuardarVentaLin(R, xCon, xTran, Numero);
-                        GuardarFVentas(R, xCon, xTran, Numero);
-                        GuardatVentasTotales(R, xCon, xTran, Numero);
-                        GuardarTesoreria(R, xCon, xTran, Numero);
-                        if (R.Comentario.Length > 0)
-                            GuardarComentario(R, Numero, ((CajaGeneral)xCajaGeneral).Usuario.CodUsuario, xCon, xTran);
-                        ImprimirRemito(R, Numero, Claves, (CajaGeneral)xCajaGeneral, xImprimir, xCon, xTran);
-                       
-                    }
-                    catch (Exception E)
-                    {
-                        throw E;
-                    }
+
+            try
+            {
+                Remito R = (Remito)xRe;
+                Numero = NumeroRecibo(R.Serie, xCon, xTran, R.TipoDoc());
+                GuardarCabecera(R, xCon, xTran, Numero);
+                GuardarVentaLin(R, xCon, xTran, Numero);
+                GuardarFVentas(R, xCon, xTran, Numero);
+                GuardatVentasTotales(R, xCon, xTran, Numero);
+                GuardarTesoreria(R, xCon, xTran, Numero);
+                if (Numero < 1)
+                {
+                    throw new Exception("Numero -1" + "  " + R.Serie + "  " + R.TipoDoc());
+                }
+                if (R.Comentario.Length > 0)
+                    GuardarComentario(R, Numero, ((CajaGeneral)xCajaGeneral).Usuario.CodUsuario, xCon, xTran);
+                ImprimirRemito(R, Numero, Claves, (CajaGeneral)xCajaGeneral, xImprimir, xCon, xTran);
+
+            }
+            catch (Exception E)
+            {
+                throw E;
+            }
             return Numero;
 
-           
+
         }
 
         private void ImprimirRemito(Remito xRemito, int xNumeroRemito, Empresa xClaves, CajaGeneral xCaja, bool xImprimir, IDbConnection xCon, IDbTransaction xTran)
         {
 
-            XMLInfo.getInstance().GenerarXMLRemito(xRemito, xNumeroRemito, xClaves, xCaja, xImprimir);
-            //GenerarXMLRemito(xRemito, xNumeroRemito, xClaves, xCaja, xImprimir);
+            //XMLInfo.getInstance().GenerarXMLRemito(xRemito, xNumeroRemito, xClaves, xCaja, xImprimir);
+            GenerarXMLRemito(xRemito, xNumeroRemito, xClaves, xCaja, xImprimir);
             string xFile = "RET" + xRemito.Serie + xNumeroRemito;
             if (XMLInfo.getInstance().LeerXMLRetorno(xFile, xCaja))
             {
@@ -838,7 +842,7 @@ namespace Aguiñagalde.DAL
                 Com.Parameters.Add(new SqlParameter("@TIPO", xTipoDoc));
                 ExecuteNonQuery(Com);
                 Com.CommandText = "SELECT  CONTADORB+1 FROM SERIESDOC WHERE (SERIE = @SERIERECIBO) AND TIPODOC = @TIPO";
-                Numero = (int)ExecuteScalar(Com);
+                Numero = Convert.ToInt32(ExecuteScalar(Com));
             }
             return Numero;
 
@@ -1385,17 +1389,17 @@ namespace Aguiñagalde.DAL
         private int ActualizarMovimientos(List<object> xMovimientos, string xSerieRecibos, IDbConnection xCon, IDbTransaction xTran)
         {
             int Numero = -1;
-                Numero = NumeroRecibo(xSerieRecibos, xCon, xTran, 20);
-                foreach (MovimientoGeneral M in xMovimientos)
+            Numero = NumeroRecibo(xSerieRecibos, xCon, xTran, 20);
+            foreach (MovimientoGeneral M in xMovimientos)
+            {
+                if (M.Estado == "S")
+                    GenerarPago(M, Numero, xCon, xTran);
+                else
                 {
-                    if (M.Estado == "S")
-                        GenerarPago(M, Numero, xCon, xTran);
-                    else
-                    {
-                        M.Posicion = Convert.ToByte(getPosicion(M.Numero, M.Serie, xCon, xTran) + 1);
-                        NuevoMovimiento(M, xCon, xTran);
-                    }
-                } 
+                    M.Posicion = Convert.ToByte(getPosicion(M.Numero, M.Serie, xCon, xTran) + 1);
+                    NuevoMovimiento(M, xCon, xTran);
+                }
+            }
             return Numero;
         }
 
@@ -1659,7 +1663,7 @@ namespace Aguiñagalde.DAL
             return false;
         }
 
-        public void AnularMovimientos(List<object> list,List<object> xRemitos,object xClaves,object xCajaGeneral,bool xImprimir)
+        public void AnularMovimientos(List<object> list, List<object> xRemitos, object xClaves, object xCajaGeneral, bool xImprimir)
         {
             Movimiento Mov;
             try
@@ -1677,7 +1681,7 @@ namespace Aguiñagalde.DAL
                                 DejarPendiente(Mov, Con, Tran);
                             }
                         }
-                        GenerarRemitos(xRemitos, xClaves, xCajaGeneral, xImprimir,Con,Tran);
+                        GenerarRemitos(xRemitos, xClaves, xCajaGeneral, xImprimir, Con, Tran);
                         Tran.Commit();
                     }
                 }
@@ -1766,6 +1770,7 @@ namespace Aguiñagalde.DAL
                 Remito R = (Remito)xEntrega;
                 using (IDbConnection Con = new SqlConnection(GlobalConnectionString))
                 {
+                    Con.Open();
                     using (IDbTransaction Tran = Con.BeginTransaction())
                     {
                         CajaGeneral C = (CajaGeneral)xCaja;

@@ -76,3 +76,15 @@ C:\Users\alai\Source\Repos\Cobros\Cobros\FabricaMappers\bin\Release\Entidades.pd
 C:\Users\alai\Source\Repos\Cobros\Cobros\FabricaMappers\obj\Release\FabricaMappers.csprojResolveAssemblyReference.cache
 C:\Users\alai\Source\Repos\Cobros\Cobros\FabricaMappers\obj\Release\FabricaMappers.dll
 C:\Users\alai\Source\Repos\Cobros\Cobros\FabricaMappers\obj\Release\FabricaMappers.pdb
+C:\Users\Alai\Documents\GitHub\Cobros\FabricaMappers\bin\Release\FabricaMappers.dll
+C:\Users\Alai\Documents\GitHub\Cobros\FabricaMappers\bin\Release\FabricaMappers.pdb
+C:\Users\Alai\Documents\GitHub\Cobros\FabricaMappers\bin\Release\DAL.dll
+C:\Users\Alai\Documents\GitHub\Cobros\FabricaMappers\bin\Release\Interfaces.dll
+C:\Users\Alai\Documents\GitHub\Cobros\FabricaMappers\bin\Release\Entidades.dll
+C:\Users\Alai\Documents\GitHub\Cobros\FabricaMappers\bin\Release\XMLManager.dll
+C:\Users\Alai\Documents\GitHub\Cobros\FabricaMappers\bin\Release\DAL.pdb
+C:\Users\Alai\Documents\GitHub\Cobros\FabricaMappers\bin\Release\Interfaces.pdb
+C:\Users\Alai\Documents\GitHub\Cobros\FabricaMappers\bin\Release\Entidades.pdb
+C:\Users\Alai\Documents\GitHub\Cobros\FabricaMappers\obj\Release\FabricaMappers.csprojResolveAssemblyReference.cache
+C:\Users\Alai\Documents\GitHub\Cobros\FabricaMappers\obj\Release\FabricaMappers.dll
+C:\Users\Alai\Documents\GitHub\Cobros\FabricaMappers\obj\Release\FabricaMappers.pdb

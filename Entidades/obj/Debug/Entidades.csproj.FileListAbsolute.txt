@@ -46,3 +46,7 @@ C:\Users\alai\Source\Repos\Cobros\Cobros\Entidades\bin\Debug\Entidades.pdb
 C:\Users\alai\Source\Repos\Cobros\Cobros\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\alai\Source\Repos\Cobros\Cobros\Entidades\obj\Debug\Entidades.dll
 C:\Users\alai\Source\Repos\Cobros\Cobros\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Alai\Documents\GitHub\Cobros\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alai\Documents\GitHub\Cobros\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alai\Documents\GitHub\Cobros\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alai\Documents\GitHub\Cobros\Entidades\obj\Debug\Entidades.pdb

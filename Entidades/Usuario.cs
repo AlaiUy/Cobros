@@ -8,6 +8,7 @@ namespace Aguiñagalde.Entidades
 {
     public class Usuario
     {
+        private string _Usuario;
         private int _codUsuario;
         private string _Nombre;
         private string _EmailHost;

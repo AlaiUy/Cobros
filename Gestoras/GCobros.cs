@@ -24,6 +24,7 @@ namespace Aguiñagalde.Gestoras
         private Empresa Claves;
         private static readonly object padlock = new object();
         private static GCobros _Instance = null;
+        private string _NamePC = "LOZ_CAJA1"; //_NamePC
 
 
         public List<Moneda> ListaMonedas
@@ -76,7 +77,7 @@ namespace Aguiñagalde.Gestoras
 
         public void UpdateParameters(List<Config> xListConfigs)
         {
-            DBCobros.UpdateParameters(xListConfigs, Environment.MachineName);
+            DBCobros.UpdateParameters(xListConfigs, _NamePC);
         }
 
         public void Iniciar(string xUsuario, string xPassword)
@@ -105,7 +106,7 @@ namespace Aguiñagalde.Gestoras
 
 
             notifyObservers("Cargando Caja");
-            _Caja = (CajaGeneral)DBCobros.getCajaByID(Environment.MachineName, U);
+            _Caja = (CajaGeneral)DBCobros.getCajaByID(_NamePC, U);
 
             notifyObservers("Cargando Monedas");
             _ListaMonedas = new List<Moneda>();
@@ -312,7 +313,7 @@ namespace Aguiñagalde.Gestoras
             Configs.Add(55);
             Configs.Add(57);
             Configs.Add(66);
-            return (DataTable)DBCobros.Parametros(Environment.MachineName, Configs);
+            return (DataTable)DBCobros.Parametros(_NamePC, Configs);
         }
 
 

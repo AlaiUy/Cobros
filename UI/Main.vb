@@ -1058,4 +1058,12 @@ Public Class Main
     Private Sub DGMovimientoGenerals_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles DGMovimientoGenerals.CellContentClick
 
     End Sub
+
+    Private Sub Panel2_Paint(sender As Object, e As PaintEventArgs) Handles Panel2.Paint
+
+    End Sub
+
+    Private Sub Panel13_Paint(sender As Object, e As PaintEventArgs) Handles Panel13.Paint
+
+    End Sub
 End Class

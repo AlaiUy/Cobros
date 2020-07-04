@@ -39,6 +39,10 @@ Public Class frmVerRecibos
         For Each Row As DataGridViewRow In DGVistaRecivos.SelectedRows
             Try
                 GCobros.getInstance().ReimprimirRecibo(Row.Cells("NUMERO").Value, Row.Cells("SERIE").Value, Row.Cells("CODIGOINTERNO").Value, Row.Cells("MONEDA").Value, DateTime.Today)
+
+                '                GCobros.getInstance().ReimprimirRecibo(453752, "A", 25898, 2, DateTime.Today)
+
+
                 Application.DoEvents()
             Catch ex As Exception
                 MsgBox(ex.Message)

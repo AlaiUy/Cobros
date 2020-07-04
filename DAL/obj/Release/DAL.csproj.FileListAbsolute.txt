@@ -62,3 +62,13 @@ C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\bin\Release\Interfaces.pdb
 C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
 C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\obj\Release\DAL.dll
 C:\Users\alai\Source\Repos\Cobros\Cobros\DAL\obj\Release\DAL.pdb
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\bin\Release\DAL.dll
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\bin\Release\DAL.pdb
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\bin\Release\Entidades.dll
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\bin\Release\Interfaces.dll
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\bin\Release\XMLManager.dll
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\bin\Release\Entidades.pdb
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\bin\Release\Interfaces.pdb
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\obj\Release\DAL.dll
+C:\Users\Alai\Documents\GitHub\Cobros\DAL\obj\Release\DAL.pdb

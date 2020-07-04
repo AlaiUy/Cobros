@@ -29,3 +29,7 @@ C:\Users\alai\Source\Repos\Cobros\Cobros\Entidades\bin\Release\Entidades.dll
 C:\Users\alai\Source\Repos\Cobros\Cobros\Entidades\bin\Release\Entidades.pdb
 C:\Users\alai\Source\Repos\Cobros\Cobros\Entidades\obj\Release\Entidades.dll
 C:\Users\alai\Source\Repos\Cobros\Cobros\Entidades\obj\Release\Entidades.pdb
+C:\Users\Alai\Documents\GitHub\Cobros\Entidades\bin\Release\Entidades.dll
+C:\Users\Alai\Documents\GitHub\Cobros\Entidades\bin\Release\Entidades.pdb
+C:\Users\Alai\Documents\GitHub\Cobros\Entidades\obj\Release\Entidades.dll
+C:\Users\Alai\Documents\GitHub\Cobros\Entidades\obj\Release\Entidades.pdb
